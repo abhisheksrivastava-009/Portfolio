@@ -4,7 +4,7 @@ This portfolio showcases my projects, skills, education, experience, and contact
 
 ---
 
-![Homepage Screenshot](WEB/img/Portfolio-img1.png)
+![Homepage Screenshot](img/Portfolio-img1.png)
 
 
 ---
